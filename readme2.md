@@ -31,7 +31,9 @@
 
     卷积神经网络（CNN）
     内容：卷积核、池化、图像特征提取
-    资源链接: http://cs231n.stanford.edu/
+    资源链接: https://cs231n.stanford.edu/
+
+        Note: Updated to HTTPS for consistency.
 
     循环神经网络（RNN） & LSTM
     内容：序列建模、门控机制
@@ -192,7 +194,7 @@ DeepSeek（深度搜索技术）
         《Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow》: https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
 
     课程
-        CS231n: Convolutional Neural Networks for Visual Recognition: http://cs231n.stanford.edu/
+        CS231n: Convolutional Neural Networks for Visual Recognition: https://cs231n.stanford.edu/
         CS224n: Natural Language Processing with Deep Learning: http://web.stanford.edu/class/cs224n/
         Fast.ai实战课程: https://www.fast.ai/
 
@@ -227,4 +229,3 @@ DeepSeek（深度搜索技术）
 
     GPT预训练方法：原文中提到的“Masked Language Modeling”已更正为GPT系列常用的“自回归生成”预训练方法。
     DeepSeek方向：该领域涉及搜索与强化学习，目前公开资料较少，如有官方项目建议关注最新论文或企业发布的开源信息。
-
