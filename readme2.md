@@ -1,9 +1,10 @@
+
 一、核心知识点分类
 1. 基础数学与机器学习
 
     线性代数
     内容：矩阵运算、特征值分解、张量操作
-    资源链接: https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2005/
+    资源链接: https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
 
     概率统计
     内容：贝叶斯理论、高斯分布、马尔可夫链
